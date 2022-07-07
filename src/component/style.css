@@ -1,0 +1,45 @@
+.globale{
+    background: linear-gradient(45deg, #775a15,#CFABEE);
+    padding: 15px;
+    margin:0px 0px 0px 0px;
+    
+}
+.listetache{
+    overflow-y: scroll;
+    height: 400px;
+
+}
+.formajout{
+    padding-top: 50px;
+}
+.btnajout{
+
+    padding-top: 20px;
+}
+
+.modale_modificaion{
+    background-color: white;
+    border: 1px solid rgb(192, 20, 20);
+    box-shadow: 1px 1px 1px  black;
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    
+   
+
+
+    padding: 15px;
+    box-sizing: border-box;
+   
+    /*margin: auto;*/
+
+    margin-right: 20px;
+    z-index: 10;
+    
+}
+.btn{
+    margin-left: 20px;
+}
+.tous{
+    width: 100%;
+}
